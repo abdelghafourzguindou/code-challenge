@@ -1,5 +1,3 @@
-## 🚀 Welcome to the PayFit live coding challenge
-
 ### 💻 Context
 
 You are on an Operating System and several paths of the filesystem are referenced in the `registry`.
@@ -48,5 +46,3 @@ Note: a nested path is accessible **only if** all the parent paths are accessibl
 The exported function should be `getUserPaths(user, paths)` where `user` is a user object.
 
 The exported function should return an array of path (paths).
-
-> Good luck! :v:
